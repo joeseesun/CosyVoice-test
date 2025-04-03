@@ -1,5 +1,13 @@
 # CosyVoice 交互式语音合成工具
 
+> 基于 [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) 项目的交互式语音合成工具。CosyVoice 是一个强大的多语言、低延迟的语音合成模型，支持零样本语音克隆和多种语言混合。
+
+## 原始项目信息
+
+- **项目地址**: [https://github.com/FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice)
+- **官方演示**: [https://funaudiollm.github.io/cosyvoice2/](https://funaudiollm.github.io/cosyvoice2/)
+- **论文**: [CosyVoice 2.0 Paper](https://arxiv.org/abs/2412.10117)
+
 ## 功能概述
 
 `test.py` 是一个基于 CosyVoice 模型的交互式语音合成工具，允许用户通过命令行界面生成高质量的语音。该工具支持以下主要功能：
